@@ -1,2 +1,1 @@
-# Fundamentals-of-Mobile-Web-Application-Development
-Thim Chandavong
+http://thimchandavong.centralus.cloudapp.azure.com/index.html 
